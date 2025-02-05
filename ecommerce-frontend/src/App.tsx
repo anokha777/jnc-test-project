@@ -20,6 +20,7 @@ function App() {
           <Routes>
             <Route path="/" element={ <HomePage /> } />
             <Route path="/:categoryName/:productId" element={ <ProductDetailPage/> } />
+            <Route path="/new-path" element={ <SomeCOmponet/> } />
         </Routes> 
     </div>
   )
