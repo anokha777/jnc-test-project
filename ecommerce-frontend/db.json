@@ -1,0 +1,118 @@
+{
+    "categories": [
+        { "id": "1", "name": "laptops" }, 
+        { "id": "2", "name": "mobiles" }, 
+        { "id": "3", "name": "speakers"}
+    ],
+    "products": [
+        {
+            "id": "1",
+             "name": "Lenovo",
+             "imageUrl": "https://5.imimg.com/data5/AY/DP/MY-11673038/lenovo-laptop.png",
+             "categoryId": "1"
+        },
+        {
+            "id": "2",
+            "name": "Mac",
+            "imageUrl": "https://m.media-amazon.com/images/I/51hJIsWMagL.jpg",
+            "categoryId": "1"
+        }, 
+        {
+            "id": "3",
+            "name": "Dell",
+            "imageUrl": "https://5.imimg.com/data5/UY/CU/MY-11673038/dell-laptop.jpeg",
+            "categoryId": "1"
+        },
+        {
+            "id": "4",
+            "name": "HP",
+            "imageUrl": "https://www.shutterstock.com/image-photo/kyiv-ukraine-fabruary-28th-2017-260nw-590283734.jpg",
+            "categoryId": "1"
+        },
+        {
+            "id": "5",
+            "name": "Toshiba",
+            "imageUrl": "https://4.imimg.com/data4/MI/EX/MY-28174815/toshiba-laptop.jpg",
+            "categoryId": "1"
+        },
+        {
+            "id": "6",
+            "name": "Compaq",
+            "imageUrl": "https://4.imimg.com/data4/BU/JY/MY-3561865/compaq-laptop.jpg",
+            "categoryId": "1"
+        },
+        
+        {
+            "id": "7",
+            "name": "iPhone",
+            "imageUrl": "https://cdn.mos.cms.futurecdn.net/zxpmEDdZ8F5w7ucKRPRSjB-320-80.jpg",
+            "categoryId": "2"
+        },
+        {
+            "id": "8",
+            "name": "Samsung",
+            "imageUrl": "https://img.global.news.samsung.com/in/wp-content/uploads/2022/03/11271-Galaxy-A53-5G-3000x2000.jpg",
+            "categoryId": "2"
+        },
+        {
+            "id": "9",
+            "name": "One Plus",
+            "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/9/340152459/VB/LM/DS/195428570/oneplus-11-mobile.jpeg",
+            "categoryId": "2"
+        },
+        {
+            "id": "10",
+            "name": "Nokia",
+            "imageUrl": "https://i.ytimg.com/vi/vAssRvun3Yo/maxresdefault.jpg",
+            "categoryId": "2"
+        },
+        {
+            "id": "11",
+            "name": "Asus",
+            "imageUrl": "https://5.imimg.com/data5/CL/FW/MY-23265042/asus-mobiles.jpg",
+            "categoryId": "2"
+        },
+        {
+            "id": "12",
+            "name": "Redmi",
+            "imageUrl": "https://i03.appmifile.com/462_item_in/02/08/2023/626c3a6e96bab03730207dc940039f3f.jpg",
+            "categoryId": "2"
+        },
+        {
+            "id": "13",
+            "name": "Oppo",
+            "imageUrl": "https://cdn1.smartprix.com/rx-iuvs4uvlM-w1200-h1200/uvs4uvlM.jpg",
+            "categoryId": "2"
+        },
+        {
+            "id": "14",
+            "name": "Bang & Olufsen",
+            "imageUrl": "https://images.ctfassets.net/8cd2csgvqd3m/1ySxnI34HiTh6yK8y0OpsY/eba567f03d7646cc941091134b208671/Packshot-Beosound-A1-2nd-Gen-Black-Anthracite-0027-Perspective-1200x1200px.png",
+            "categoryId": "3"
+        },
+        {
+            "id": "15",
+            "name": "JBL",
+            "imageUrl": "https://img.global.news.samsung.com/in/wp-content/uploads/2021/03/Feature-1.jpg",
+            "categoryId": "3"
+        },
+        {
+            "id": "16",
+            "name": "Sony",
+            "imageUrl": "https://www.sony.co.in/image/3dde82e0cc76fb82f0647aa3970b3ca5?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320",
+            "categoryId": "3"
+        },
+        {
+            "id": "17",
+            "name": "Philips",
+            "imageUrl": "https://www.philips.co.in/c-dam/b2c/category-pages/sound-and-vision/portable-audio/in/wireless-speakers/TAS1505B-hero-product-image.jpg",
+            "categoryId": "3"
+        },
+        {
+            "id": "18",
+            "name": "Boat",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+vAqchTNL.jpg",
+            "categoryId": "3"
+        }
+    ]
+  }
